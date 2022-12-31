@@ -1,5 +1,5 @@
 body{
-    color:white;
+    color:rgb(255, 0, 170);
     background-color: black;
     font-family: 'Rubik Bubbles', cursive;
 }
@@ -58,7 +58,7 @@ body{
     box-shadow: 40vmin 0 5.527973050547467vmin currentColor;
 }
 .background span:nth-child(2) {
-    color: #001eff;
+    color: #ff00fb;
     top: 36%;
     left: 67%;
     animation-duration: 42s;
@@ -67,7 +67,7 @@ body{
     box-shadow: 40vmin 0 5.032633713436934vmin currentColor;
 }
 .background span:nth-child(3) {
-    color: #37ff00;
+    color: #ffea00;
     top: 79%;
     left: 30%;
     animation-duration: 23s;
@@ -76,7 +76,7 @@ body{
     box-shadow: -40vmin 0 5.743237787988186vmin currentColor;
 }
 .background span:nth-child(4) {
-    color: #37ff00;
+    color: #00eaff;
     top: 31%;
     left: 52%;
     animation-duration: 38s;
@@ -85,7 +85,7 @@ body{
     box-shadow: -40vmin 0 5.108089460128767vmin currentColor;
 }
 .background span:nth-child(5) {
-    color: #37ff00;
+    color: #ff00cc;
     top: 72%;
     left: 17%;
     animation-duration: 42s;
@@ -94,7 +94,7 @@ body{
     box-shadow: -40vmin 0 5.726336137991329vmin currentColor;
 }
 .background span:nth-child(6) {
-    color: #ff0000;
+    color: #ff00ae;
     top: 50%;
     left: 12%;
     animation-duration: 6s;
@@ -112,7 +112,7 @@ body{
     box-shadow: 40vmin 0 5.321390425956432vmin currentColor;
 }
 .background span:nth-child(8) {
-    color: #001eff;
+    color: #ff00c3;
     top: 85%;
     left: 73%;
     animation-duration: 24s;
@@ -121,7 +121,7 @@ body{
     box-shadow: -40vmin 0 5.5198017169792415vmin currentColor;
 }
 .background span:nth-child(9) {
-    color: #001eff;
+    color: #ff00e6;
     top: 23%;
     left: 37%;
     animation-duration: 12s;
@@ -130,7 +130,7 @@ body{
     box-shadow: 40vmin 0 5.210897757060667vmin currentColor;
 }
 .background span:nth-child(10) {
-    color: #37ff00;
+    color: #ff00b3;
     top: 20%;
     left: 23%;
     animation-duration: 47s;
@@ -139,7 +139,7 @@ body{
     box-shadow: 40vmin 0 5.047843851749328vmin currentColor;
 }
 .background span:nth-child(11) {
-    color: #37ff00;
+    color: #ff0099;
     top: 57%;
     left: 99%;
     animation-duration: 23s;
@@ -148,7 +148,7 @@ body{
     box-shadow: -40vmin 0 5.948890130945287vmin currentColor;
 }
 .background span:nth-child(12) {
-    color: #ff0000;
+    color: #ff00b3;
     top: 97%;
     left: 4%;
     animation-duration: 30s;
@@ -157,7 +157,7 @@ body{
     box-shadow: -40vmin 0 5.85090361009725vmin currentColor;
 }
 .background span:nth-child(13) {
-    color: #37ff00;
+    color: #ff00d9;
     top: 74%;
     left: 21%;
     animation-duration: 51s;
